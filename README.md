@@ -1,28 +1,9 @@
 # MovieFlix
-[Project demo link](https://zen-ride-bc37b1.netlify.app/)
-
-This application suggests movies based on genres selected using The Movie DB API. Also displays IMDB rating of the movie.
+[Project demo link] https://youtu.be/aONDQybqvuw
 
 
 
 
-# Setup
 
-Clone this repo – 
 
-    git clone https://github.com/zorgonide/movieflix.git
-
-Move into project directory **movieflix**
-
-Run command – 
-
-    npm install
-
-This will install the node_modules folder
-
-Run command – 
-
-    npm run start-dev
-
-To run project on localhost:3000
 
